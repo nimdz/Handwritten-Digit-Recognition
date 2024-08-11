@@ -12,3 +12,5 @@ def create_model():
                   loss='sparse_categorical_crossentropy',
                   metrics=['accuracy'])
     return model
+
+
